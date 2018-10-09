@@ -1,5 +1,6 @@
 package com.capgemini.productapp.exception;
 
+@SuppressWarnings("serial")
 public class ProductNotFoundException extends Exception {
 	
 	public ProductNotFoundException() {		
